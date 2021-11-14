@@ -2,3 +2,5 @@ script.py
 a.npy
 .ipynb_checkpoints/
 h.pkl
+bm_price.png
+housing.csv
